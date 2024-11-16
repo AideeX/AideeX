@@ -5,23 +5,9 @@
 [![Email](https://img.shields.io/badge/email-8a2be2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aideubachukwu@gmail.com)
 
 
-I'm a passionate Frontend Engineer who thrives on creating engaging, user-friendly interfaces. With a strong foundation in React, Vue, and TypeScript, I specialize in building seamless, performant web applications. My journey in tech has also led me to explore backend technologies like Firebase, ensuring end-to-end development capabilities. In addition to coding, I bring a creative edge to my work with a background in Figma design, bridging the gap between development and design for cohesive digital experiences.
+I am a dedicated Software Engineer with a diverse background in UX/UI design, project management, and marketing. My passion for technology was ignited during my undergraduate studies, where I discovered the transformative power of code to create innovative solutions.
 
-### 💻 Tech Stack
-
-##### Frontend Development
-
-- Frameworks & Libraries: React, Vue
-- Languages: TypeScript, JavaScript, HTML, CSS
-- Styling: CSS Modules, TailwindCSS
-  
-##### Backend & Tools
-
-- Firebase (Authentication)
-
-##### Design
-
-- Figma (Prototyping, Wireframing, UI/UX Design)
+With a Bachelor of Arts in English and an MBA in Management, I bring a unique blend of creativity, leadership, and technical expertise. I am proficient in React, Vue, TypeScript, JavaScript, HTML, CSS, CSS Modules, and TailwindCSS for frontend development, as well as Firebase for backend authentication. Additionally, I leverage Figma to design intuitive and user-focused interfaces.
 
 ##### Other Things to Know
 
